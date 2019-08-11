@@ -1,0 +1,21 @@
+{
+  "name": "koito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc"
+  },
+  "author": "P-Chan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "@types/puppeteer": "^1.19.0",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
