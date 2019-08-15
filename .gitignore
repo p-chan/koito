@@ -1,6 +1,10 @@
 # dependencies
 node_modules
 
+# environments
+.env*
+!.env.example
+
 # logs
 *.log
 
